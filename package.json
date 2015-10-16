@@ -48,7 +48,6 @@
     "gapitoken": "0.1.5",
     "googleapis": "2.1.5",
     "mandrill-api": "1.0.45",
-    "memwatch": "~0",
     "mkdirp": "*",
     "moment": "2.10.6",
     "moment-timezone": "0.4.1",
@@ -62,7 +61,6 @@
     "requirejs-middleware": "*",
     "sockjs": "0.3.15",
     "stylus": "0.52.4",
-    "toobusy": "~0",
     "underscore": "1.8.3",
     "winston-mail": "0.5.0"
   },
