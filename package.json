@@ -2,7 +2,7 @@
   "name": "unhangout-server",
   "version": "2.0.0",
   "author": "Drew Harry <dharry@media.mit.edu>",
-  "description": "a server for managing un-hangouts; large scale online un-conference-style events using Google Hangout",
+  "description": "A server for managing un-hangouts; large scale online un-conference-style events using Google Hangout",
   "contributors": [
     {
       "name": "Drew Harry",
@@ -31,7 +31,7 @@
   "main": "./lib/unhangout-server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/drewww/unhangout.git"
+    "url": "https://github.com/unhangout/unhangout.git"
   },
   "dependencies": {
     "amdefine": "1.0.0",
