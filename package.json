@@ -17,7 +17,7 @@
       "email": "srishakatux@gmail.com"
     }
   ],
-  "license" : "BSD-3-Clause",
+  "license": "BSD-3-Clause",
   "scripts": {
     "postinstall": "node ./bin/compile-assets.js",
     "start": "node ./bin/unhangout-server",
@@ -64,7 +64,6 @@
     "stylus": "0.52.4",
     "toobusy": "~0",
     "underscore": "1.8.3",
-    "winston-mail": "0.7.0",
     "winston-mail": "0.5.0"
   },
   "analyze": false,
